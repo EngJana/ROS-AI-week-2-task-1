@@ -1,6 +1,6 @@
 # ROS-AI-week-2-task-1
 ROS AI week 2 samrt methods internship 
-task 1: install ROS noetic and ROS2 foxy
+task 1: install ubuntu, ROS noetic, and ROS2 foxy
 
 
 ## Installing ubuntu 
