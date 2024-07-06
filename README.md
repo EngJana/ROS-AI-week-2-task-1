@@ -26,9 +26,9 @@ Considering these factors, the choice between working on Ubuntu in VirtualBox an
 - Choose WSL if you want seamless integration with the Windows ecosystem, better performance, and easier setup and maintenance.
 
 ## Install Ubuntu terminal in Windows:
-1.	Visit the website Linux WSL for Development Environment for detailed instructions (https://dev.to/wiscer/linux-wsl-for-development-environment-1ad2).
+1.	Visit the website Linux WSL for Development Environment for detailed instructions [ubuntu terminal in windows](https://dev.to/wiscer/linux-wsl-for-development-environment-1ad2).
 2.	The guide explains how to enable WSL on your Windows machine by going to the Windows Features settings and enabling "Windows Subsystem for Linux."
-3.	After enabling WSL, you can install the Ubuntu distribution from the Microsoft Store. The guide provides step-by-step instructions on how to search for and install Ubuntu.
+3.	After enabling WSL, you can install the Ubuntu distribution from the Microsoft Store.
 4.	Once Ubuntu is installed, you can launch the Ubuntu terminal and follow the on-screen instructions to set up your username and password.
 
 ## Installing ROS Noetic
