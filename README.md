@@ -30,15 +30,21 @@ Considering these factors, the choice between working on Ubuntu in VirtualBox an
 2.	The guide explains how to enable WSL on your Windows machine by going to the Windows Features settings and enabling "Windows Subsystem for Linux."
 3.	After enabling WSL, you can install the Ubuntu distribution from the Microsoft Store.
 4.	Once Ubuntu is installed, you can launch the Ubuntu terminal and follow the on-screen instructions to set up your username and password.
+<img width="512" alt="ubuntu" src="https://github.com/EngJana/ROS-AI-week-2-task-1/assets/173661625/32d75704-f4b9-4d7a-a347-c8a61b01db26">
+
 
 ## Installing ROS Noetic
 1.	Visit the ROS Noetic Installation Guide on the ROS Wiki [ROS noetic](https://wiki.ros.org/noetic/Installation/Ubuntu).
 2.	The guide provides detailed instructions for installing ROS Noetic on Ubuntu. It includes steps for setting up your sources.list, adding the ROS repository keys, and installing the ROS packages.
 3.	Choose the appropriate installation method based on your specific requirements.
 4.	Follow the guide
+<img width="859" alt="Ros1" src="https://github.com/EngJana/ROS-AI-week-2-task-1/assets/173661625/47a75d55-6975-4939-a695-807c19c432a2">
+
 
 ## Installing ROS2 Foxy
 1.	Visit the ROS2 Foxy Installation Guide. [ROS2 foxy](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
 2.	The guide provides instructions for installing ROS2 Foxy on different operating systems. Choose the instructions specific to your operating system.
 3.	The guide covers various installation methods and provides the necessary commands to install ROS2 Foxy.
 4.	Follow the guide
+<img width="858" alt="Ros2" src="https://github.com/EngJana/ROS-AI-week-2-task-1/assets/173661625/10b29154-75d8-4b09-99e8-ccd1a7e3395f">
+
